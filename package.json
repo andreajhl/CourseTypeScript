@@ -1,0 +1,27 @@
+{
+  "name": "coursetypescript",
+  "version": "1.0.0",
+  "description": "TypeScript course notes and examples",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^18.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreajhl/CourseTypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreajhl/CourseTypeScript/issues"
+  },
+  "homepage": "https://github.com/andreajhl/CourseTypeScript#readme"
+}

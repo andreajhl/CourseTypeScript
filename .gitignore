@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Dependency directory
+node_modules
+
+# Trash
+.DS_Store
+.idea
+
+# ESLint caches
+.eslintcache
